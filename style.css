@@ -1,0 +1,5 @@
+html,body{height:100%;margin:0;background:#000;font-family:sans-serif}
+#hud{position:fixed;left:0;top:0;width:100%;height:100%;pointer-events:none}
+#instructions{position:fixed;left:10px;bottom:10px;color:rgba(255,255,255,0.75);font-size:13px;pointer-events:none}
+#crosshair{position:fixed;left:50%;top:50%;transform:translate(-50%,-50%);color:#9b9b9b;font-size:26px;line-height:1;pointer-events:none}
+canvas{display:block}
